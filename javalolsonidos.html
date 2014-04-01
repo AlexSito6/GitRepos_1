@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+<script type="text/javascript">
+//<![CDATA[
+// Definir lista de extensiones y el tipo de fichero de audio asociado. Puedes añadir más
+var html5_audiotypes={ 
+"mp3": "audio/mpeg",
+"mp4": "audio/mp4",
+"ogg": "audio/ogg",
+"wav": "audio/wav"
+}
+
+function createsoundbite(sound){
+var html5audio=document.createElement('audio')
+if (html5audio.canPlayType){ //Comprobar soporte para audio HTML5
+for (var i=0; i<arguments.length; i++){
+var sourceel=document.createElement('source')
+sourceel.setAttribute('src', arguments[i])
+if (arguments[i].match(/.(w+)$/i))
+sourceel.setAttribute('type', html5_audiotypes[RegExp.$1])
+html5audio.appendChild(sourceel)
+}
+html5audio.load()
+html5audio.playclip=function(){
+html5audio.pause()
+html5audio.currentTime=0
+html5audio.play()
+}
+return html5audio
+}
+else{
+return {playclip:function(){throw new Error('Su navegador no soporta audio HTML5')}}
+}
+}
+
+//Inicializar sonidos
+var hover1 = createsoundbite('http://k003.kiwi6.com/hotlink/564750mi8i/whistle.mp3');
+var hover2 = createsoundbite('http://k003.kiwi6.com/hotlink/5b6r3mpa5k/coche.mp3');
+var sonidopropio = createsoundbite('02 - Equilibrio.mp3');
+var sonidopropio2 = createsoundbite('Issa Bagayogo - Nogo.mp3');
+//Nótese que se pueden añadir ficheros con otras extensiones para mayor compatibilidad
+var click1 = createsoundbite('http://k003.kiwi6.com/hotlink/1510nx04no/click.mp3','http://k003.kiwi6.com/hotlink/dki95s7ty3/click.ogg');
+//]]>
+</script>
+
+<style>
+
+html{
+	background-color: #BFB8B8;
+}
+
+header{
+	height: 100%;
+	height: 130px;
+	background-color: #BFB8B8;
+}
+
+#general{
+	width: 1050px;
+	height: 1000px;
+	margin: 0 auto;
+	border:1px solid black;
+	background-color: #BFB8B8;
+}
+
+.claseleft{
+	width: 45%;
+	height: 150px;
+	background-color: red;
+	float:left;
+	margin-left: 5px;
+}
+
+.claseright{
+	width: 45%;
+	height: 150px;
+	background-color: blue;
+	float:right;
+	margin-right: 5px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+	<header>
+		
+		<center><h2 style="padding:2.5%;">First Web Without Eyes</h2></center>
+
+	</header>
+
+	<div id="general">
+
+
+		<div class="claseleft" onmouseover="sonidopropio.playclip()">
+
+			<center><h1>SERVICIOS<h1></center>
+
+		</div>
+
+		<div class="claseright" onmouseover="sonidopropio.playclip()">
+
+			<center><h1>AYUDA<h1></center>
+
+		</div>
+
+		<div class="claseleft" onmouseover="sonidopropio.playclip()" style="margin-top:5px;">
+
+			<center><h1>NOSOTROS<h1></center>
+
+		</div>
+
+		<div class="claseright" onmouseover="sonidopropio.playclip()" style="margin-top:5px;">
+
+			<center><h1>QUE HACEMOS<h1></center>
+
+		</div>
+
+		<!--<a href="javascript:void();" onclick="sonidopropio.playclip()">Efecto hover 2</a>-->
+
+
+
+	</div>
+
+
+
+</body>
+</html>
