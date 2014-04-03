@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>enlaces</title>
+    <style type="text/css">
+body {  
+  background-color: #333333;
+}
+
+h2 {  
+  float: none;
+}
+
+p {  
+  color: #00cccc;
+}
+
+td {  
+  color: #00cccc;
+}
+
+a {  
+  color: #00cccc;
+}
+
+span {
+}
+
+</style></head>
+  <body> <a href="superweb.html"><img alt="" style="width:30px;" src="inicio.jpg"></a><br>
+    <br>
+    <h2 style="text-align: center;">ENLACES</h2>
+    <p><br>
+    </p>
+    <table style="width: 100%" border="1">
+      <tbody>
+        <tr align="center">
+          <td><a href="http://www.futsal.cat"><span style="color: #00cccc;">Federació
+                Catalana de Futbol Sala ( FCFS )</span></a></td>
+        </tr>
+        <tr align="center">
+          <td><a href="http://caracterpro.site88.net">Web en proceso con
+              BOOTSTRAP</a></td>
+        </tr>
+        <tr align="center">
+          <td><a href="http://www.getmetal.org">GETMETAL </a></td>
+        </tr>
+        <tr align="center">
+          <td><a href="http://kyuken.comuf.com">WEB PERSONAL DIW</a></td>
+        </tr>
+        <tr align="center">
+          <td><a href="http://www.soweto.es">SOWETO</a></td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
+    <br>
+  </body>
+</html>

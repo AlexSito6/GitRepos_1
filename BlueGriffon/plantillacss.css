@@ -1,0 +1,53 @@
+.class1 {  
+  background-color: white;  
+  color: #009900;  
+  font-family: "Ubuntu Mono";  
+  border-top-color: #000099;  
+  border-right-color: #000099;  
+  border-bottom-color: #000099;  
+  border-left-color: #000099;
+}
+
+.class2 {  
+  color: red;  
+  float: right;
+}
+
+#titulohover:hover {  
+  color: #3333ff;
+}
+
+#idfoto {  
+  float: right;
+}
+
+#titulohover {  
+  float: none;  
+  top: 0rem;
+}
+
+#asa {  
+  float: right;
+}
+
+#ad {  
+  float: left;
+}
+
+#asdadsadsa {  
+  float: none;
+}
+
+#dgfdgfd {  
+  float: left;  
+  margin-right: 5%;
+}
+
+#hola {  
+  float: right;
+}
+
+#hola2 {  
+  float: right;
+}
+

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title></title>
+    <style type="text/css">
+body {  
+  color: #333333;  
+  background-color: #333333;
+}
+
+p {  
+  color: #00cccc;  
+  background-color: #333333;
+}
+
+h3 {  
+  color: black;
+}
+
+img {  
+  float: right;
+}
+
+span {  
+  background-color: #333333;  
+  color: black;
+}
+
+</style></head>
+  <body> <a href="aficiones.html">Torna enrere </a> <br>
+    <h3 style="text-align: center;"><span style="text-decoration: underline;">MOTOS</span></h3>
+    <p>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      Una&nbsp;motocicleta, comúnmente conocida en&nbsp;español&nbsp;con la
+      abreviatura&nbsp;moto, es un&nbsp;vehículo&nbsp;de dos ruedas, impulsado
+      por un&nbsp;motor&nbsp;que acciona la rueda trasera, salvo raras
+      excepciones. El cuadro o&nbsp;chasis&nbsp;y las ruedas constituyen la
+      estructura fundamental del vehículo. La rueda directriz es la delantera.
+      Pueden transportar hasta dos personas, y tres si están dotadas
+      de&nbsp;sidecar.</p>
+    E<img alt="" src="file:///home/alex/Escriptori/Enlla%C3%A7%20a%20Dropbox/2%C2%BA%20DAW/BlueGriffon/moto1.jpg"><br>
+    E<br>
+    <p>Por ejemplo, la motocicleta de la foto es un tipo de motocicleta RR,
+      motos especializadas para correr y coger la máxima velocidad explotando su
+      enorme motor, poniéndolo al límite al que llegará sobre 290-300km/h.</p>
+    
+  </body>
+</html>

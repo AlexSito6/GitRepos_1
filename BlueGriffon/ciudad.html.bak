@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>ciudad</title>
+    <style type="text/css">
+#textbcn {  
+  float: left;  
+  display: block;  
+  clear: none;  
+  margin-left: 20px;  
+  background-color: #333333;
+}
+
+#textttt {  
+  background-color: #333333;  
+  color: #33ccff;
+}
+
+#texttt {  
+  background-color: #333333;  
+  color: #33ccff;
+}
+
+#titulomiciudad {  
+  float: none;
+}
+
+body {  
+  background-color: #333333;  
+  color: red;
+}
+
+p {  
+  color: #33ccff;  
+  background-color: #333333;
+}
+
+html {  
+  color: #006600;
+}
+
+</style></head>
+  <body id="textbcn"> <a href="superweb.html"><img style="width:30px;" alt="" src="inicio.jpg"></a>
+    <h2 style="text-align: center; text-decoration:underline;"><span style="color: #33ccff;">MI
+        CIUDAD</span></h2>
+    <h2 style="text-align: center;"><img alt="" src="barcelona.jpg"></h2>
+    <br>
+    <p id="texttt" style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">Barcelona
+      es una&nbsp;ciudad&nbsp;española, capital de la&nbsp;provincia
+      homónima&nbsp;y de la&nbsp;comunidad autónoma&nbsp;de&nbsp;Cataluña. Con
+      una población de 1&nbsp;620&nbsp;943 habitantes en 2012 es la segunda
+      ciudad más poblada de&nbsp;España&nbsp;después de&nbsp;Madrid, y la
+      undécima de la Unión Europea. El&nbsp;área metropolitana&nbsp;de
+      Barcelona, incluida en la&nbsp;Región urbana de Barcelona, cuenta con
+      5&nbsp;029&nbsp;181 habitantes (2011), siendo así la sexta ciudad de mayor
+      población de la&nbsp;Unión Europea.5</p>
+    <p id="textttt" style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">Se
+      ubica a orillas del&nbsp;mar Mediterráneo, apenas 120&nbsp;km&nbsp;al sur
+      de la cadena montañosa de los&nbsp;Pirineos&nbsp;y de la frontera
+      con&nbsp;Francia, en un pequeño llano litoral limitado por el mar al este,
+      la&nbsp;sierra de Collserola&nbsp;al oeste, el&nbsp;río Llobregat&nbsp;al
+      sur y el&nbsp;río Besós&nbsp;al norte. Por haber sido capital
+      del&nbsp;condado de Barcelona, se suele aludir a ella con la denominación
+      de&nbsp;Ciudad Condal.</p>
+    <p style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    </p>
+    <p style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">Barcelona
+      ha sido escenario de diversos eventos mundiales, que han contribuido a
+      configurar la ciudad y darle proyección internacional. Los más relevantes
+      han sido la&nbsp;Exposición Universal de 1888, la&nbsp;Exposición
+      Internacional de 1929, los&nbsp;Juegos Olímpicos de verano de 1992&nbsp;y
+      el&nbsp;Fórum Universal de las Culturas 2004. Es también sede del
+      secretariado de la&nbsp;Unión para el Mediterráneo.6</p>
+    <p style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">En
+      la actualidad, Barcelona está reconocida como&nbsp;Ciudad global&nbsp;por
+      su importancia cultural, financiera, comercial y turística. Posee uno de
+      los&nbsp;puertos&nbsp;más importantes del Mediterráneo y es también un
+      importante punto de comunicaciones entre España y Francia, debido a las
+      conexiones por autopista y&nbsp;tren de alta velocidad. El&nbsp;aeropuerto
+      de Barcelona&nbsp;fue utilizado por más de 35 millones de pasajeros en
+      2012.7</p>
+    <br class="Apple-interchange-newline">
+    <br class="Apple-interchange-newline">
+  </body>
+</html>

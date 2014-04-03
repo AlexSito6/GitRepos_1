@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>aficiones</title>
+    <style type="text/css">
+#bodyaficiones {  
+  background-color: #333333;
+}
+
+p {  
+  color: #00cccc;  
+  background-color: #333333;
+}
+
+body {  
+  background-color: #333333;
+}
+
+</style></head>
+  <body id="bodyaficiones"> <a href="aficiones.html">Torna enrere </a> <br>
+    <br>
+    <h3 style="text-align: center;"><span style="text-decoration: underline;">FUTSAL</span></h3>
+    <p> </p>
+    <p style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">Evantonto
+      El&nbsp;fútbol sala,1&nbsp;fútbol de
+      salón,&nbsp;fútsal,&nbsp;futsal&nbsp;o&nbsp;microfútbol; es
+      un&nbsp;deporte&nbsp;colectivo de pelota practicado entre dos equipos de 5
+      jugadores cada uno, dentro de una cancha de suelo duro. Surgió inspirado
+      en otros deportes como el&nbsp;fútbol, que es la base del juego;
+      el&nbsp;waterpolo; el&nbsp;voleibol; el&nbsp;balonmano&nbsp;y
+      el&nbsp;baloncesto; tomando de estos no solo parte de las reglas, sino
+      también algunas técnicas de juego.</p>
+    <p style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;"><br>
+    </p>
+    <img style="width: 539px; height: 360px;" alt="" src="futsal.jpg"><br>
+    <p style="margin: 0.4em 0px 0.5em; line-height: 19.1875px; font-family: sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">Aunque
+      inicialmente estuvo regido por la&nbsp;Federación Internacional de Fútbol
+      de Salón&nbsp;(FIFUSA), hoy existen dos entes mundiales: la sucesora
+      directa de la FIFUSA llamada&nbsp;Asociación Mundial de Futsal&nbsp;(AMF),
+      y la&nbsp;FIFA.</p>
+  </body>
+</html>

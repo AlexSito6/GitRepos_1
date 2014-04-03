@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title></title>
+    <style type="text/css">
+body {  
+  background-color: #333333;
+}
+
+form {  
+  background-color: #666666;
+}
+
+</style></head>
+  <body>
+    <div style="text-align: left;"><a href="superweb.html"><img alt="" style="width:30px;"
+          src="inicio.jpg"></a><br>
+      <h1 style="text-align: center; text-decoration:underline;">Libro de visitas</h1>
+    </div>
+    <div style="text-align: left;">
+      <h3>Formulario Contacto</h3>
+    </div>
+    <form name="formcontacto" method="get"> <br>
+      <div style="text-align: center;"> Nombre: <br>
+        <input name="nombre" type="text"><br>
+        <br>
+        Email:<br>
+        <input name="email" type="text"><br>
+        <br>
+        Tema:<br>
+        <input name="tema" type="text"><br>
+        <br>
+        Comentarios:<br>
+        <textarea rows="9" cols="30" name="comentarios"></textarea><br>
+        <br>
+        <input value="Envia" name="enviar" type="button"></div>
+      <br>
+    </form>
+    <h3>Contacto via e-mail</h3>
+    <form action="" name="email">Contacta con nosotros via e-mail diréctamente:<br>
+      <br>
+      alexinfo94@gmail.com</form>
+    <br>
+    <h3>Contacto via teléfono</h3>
+    <form action="" name="telefono">Contacta con nosotros via teléfono
+      llamándonos al 93 456 42 21 o al teléfono móvil 629 776 712
+    </form>
+  </body>
+</html>

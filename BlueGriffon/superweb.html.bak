@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>superweb</title>
+    <style type="text/css">
+td {  
+  width: 10px;  
+  text-align: center;
+}
+
+img {  
+  width: 60px;
+}
+
+p {  
+  color: #999999;
+}
+
+body {  
+  background-color: #999999;
+}
+
+a {  
+  clear: none;  
+  text-decoration: none;
+}
+
+</style></head>
+  <body>
+    <h2 style="text-align: center;">Bienvenido a la SuperWeb</h2>
+    <p><br>
+    </p>
+    <table style="width: 100%;" border="1">
+      <tbody>
+        <tr>
+          <td style="width: 513.466px;" colspan="1" rowspan="5"> <video style="width:500px;"
+              controls="controls" preload="none" src="videos/intro.mp4" autoplay="autoplay"></video>
+            <br>
+          </td>
+          <td style="height: 60px;">
+            <center><img style="width: 77px; height: 42px;" alt="" src="banana.gif"></center>
+            <br>
+          </td>
+          <td><a href="ciudad.html">Mi ciudad</a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="height: 19px;">
+            <center><img alt="" src="gif1.gif"></center>
+            <br>
+          </td>
+          <td><a href="aficiones.html">Mis aficiones</a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 43.766px;">
+            <center><img alt="" src="gif2.gif"></center>
+            <br>
+          </td>
+          <td><a href="enlaces.html">Enlaces</a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <center><img alt="" src="bateria.gif"></center>
+            <br>
+          </td>
+          <td style="width: 187.9px;"><a href="mapaweb.html">Mapa de la web</a><br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <center><img alt="" src="gif3.gif"></center>
+            <br>
+          </td>
+          <td><a href="librovisitas.html">Libro de visitas</a><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <center><a href="foro.html">FORO KyuKen</a></center>
+    <br><br>
+    <center><a href="chat.html">CHAT KyueKen</a></center>
+  </body>
+</html>

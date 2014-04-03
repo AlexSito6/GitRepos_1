@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>chat</title>
+    <style type="text/css">
+#chatfondo {  
+  background-color: #333333;
+}
+
+#jdsfjschat {  
+  color: #00cccc;
+}
+
+</style></head>
+  <body id="chatfondo">
+    <h2 id="jdsfjschat" style="text-align: center;">CHAT ONLINE&nbsp;</h2>
+    <br>
+    <br>
+    <br><center>
+    <script id="sid0020000057504675281">(function() {function async_load(){s.id="cid0020000057504675281";s.src='http://st.chatango.com/js/gz/emb.js';s.style.cssText="width:910px;height:500px;";s.async=true;s.text='{"handle":"kyuken6","arch":"js","styles":{"a":"cc0000","b":100,"c":"FFFFFF","d":"FFFFFF","k":"cc0000","l":"cc0000","m":"cc0000","n":"FFFFFF","p":"9.99","q":"cc0000","r":100,"cvbg":"CC0000","cvw":75,"cvh":40}}';var ss = document.getElementsByTagName('script');for (var i=0, l=ss.length; i < l; i++){if (ss[i].id=='sid0020000057504675281'){ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}var s=document.createElement('script');if (s.async==undefined){if (window.addEventListener) {addEventListener('load',async_load,false);}else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();</script>
+    </center>
+  </body>
+</html>
